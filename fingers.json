@@ -1,0 +1,181 @@
+[
+    {
+        "service": "Azure",
+        "cname": [
+            ".azurewebsites.net",
+            ".cloudapp.net",
+            ".cloudapp.azure.com",
+            ".trafficmanager.net",
+            ".blob.core.windows.net",
+            ".azure-api.net",
+            ".azurehdinsight.net",
+            ".azureedge.net"
+        ],
+        "fingerprint": ""
+    },
+    {
+        "service": "GitHub",
+        "cname": [
+            "github.io",
+            "github.com"
+        ],
+        "fingerprint": "There isn't a GitHub Pages site here."
+    },
+    {
+        "service": "Anima",
+        "cname": [
+            "s3-website"
+        ],
+        "fingerprint": "If this is your website and you've just created it, try refreshing in a minute"
+    },
+    {
+        "service": "S3 Bucket",
+        "cname": [
+            "s3-website"
+        ],
+        "fingerprint": "The specified bucket does not exist"
+    },
+    {
+        "service": "Fastly",
+        "cname": [
+            "fastly.net"
+        ],
+        "fingerprint": "Fastly error: unknown domain"
+    },
+    {
+        "service": "Agile.CRM",
+        "cname": [
+            "agilecrm.com"
+        ],
+        "fingerprint": "Sorry, this page is no longer available."
+    },
+    {
+        "service": "Heroku",
+        "cname": [
+            "herokuapp.com",
+            "herokudns.com"
+        ],
+        "fingerprint": "herokucdn.com/error-pages/no-such-app.html"
+    },
+    {
+        "service": "Pantheon",
+        "cname": [
+            "pantheonsite.io"
+        ],
+        "fingerprint": "The gods are wise, but do not know of the site which you seek."
+    },
+    {
+        "service": "Tumblr",
+        "cname": [
+            "domains.tumblr.com"
+        ],
+        "fingerprint": "Whatever you were looking for doesn't currently exist at this address."
+    },
+    {
+        "service": "WordPress",
+        "cname": [
+            "wordpress.com"
+        ],
+        "fingerprint": "Do you want to register"
+    },
+    {
+        "service": "Ghost",
+        "cname": [
+            "ghost.io"
+        ],
+        "fingerprint": "The thing you were looking for is no longer here, or never was"
+    },
+    {
+        "service": "Shopify",
+        "cname": [
+            "myshopify.com"
+        ],
+        "fingerprint": "Sorry, this shop is currently unavailable."
+    },
+    {
+        "service": "Statuspage",
+        "cname": [
+            "statuspage.io"
+        ],
+        "fingerprint": "You are being \u003ca href=\"https://www.statuspage.io\"\u003eredirected"
+    },
+    {
+        "service": "UserVoice",
+        "cname": [
+            "uservoice.com"
+        ],
+        "fingerprint": "This UserVoice subdomain is currently available!"
+    },
+    {
+        "service": "Surge",
+        "cname": [
+            "surge.sh"
+        ],
+        "fingerprint": "project not found"
+    },
+    {
+        "service": "Bitbucket",
+        "cname": [
+            "bitbucket.io"
+        ],
+        "fingerprint": "Repository not found"
+    },
+    {
+        "service": "Brightcove",
+        "cname": [
+            "bcvp0rtal.com",
+            "brightcovegallery.com",
+            "gallery.video"
+        ],
+        "fingerprint": "\u003cp class=\"bc-gallery-error-code\"\u003eError Code: 404\u003c/p\u003e"
+    },
+    {
+        "service": "BigCartel",
+        "cname": [
+            "bigcartel.com"
+        ],
+        "fingerprint": "\u003ch1\u003eOops! We could\u0026#8217;t find that page.\u003c/h1\u003e"
+    },
+    {
+        "service": "Acquia",
+        "cname": [
+            "acquia-test.co"
+        ],
+        "fingerprint": "The site you are looking for could not be found."
+    },
+    {
+        "service": "Zendesk",
+        "cname": [
+            "zendesk.com"
+        ],
+        "fingerprint": "Help Center Closed"
+    },
+    {
+        "service": "ReadMe",
+        "cname": [
+            "readme.io"
+        ],
+        "fingerprint": "Project doesnt exist... yet!"
+    },
+    {
+        "service": "MaxCDN",
+        "cname": [
+            ".netdna-cdn.com"
+        ],
+        "fingerprint": ""
+    },
+    {
+        "service": "Apigee",
+        "cname": [
+            "-portal.apigee.net"
+        ],
+        "fingerprint": ""
+    },
+    {
+        "service": "Smugmug",
+        "cname": [
+            "domains.smugmug.com"
+        ],
+        "fingerprint": ""
+    }
+]
